@@ -8,7 +8,7 @@ const Footer = () => (
     >
       Portfolio Codebase
     </a>
-    <br></br>
+    <br />
     <a href="https://github.com/AJLosey/Portfolio" className='link footer__link'>
       Old Portfolio, created from scratch
     </a>
