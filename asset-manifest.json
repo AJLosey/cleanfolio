@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/cleanfolio/static/css/main.e083f29e.chunk.css",
-    "main.js": "/cleanfolio/static/js/main.05688412.chunk.js",
-    "main.js.map": "/cleanfolio/static/js/main.05688412.chunk.js.map",
+    "main.js": "/cleanfolio/static/js/main.fef9c2d6.chunk.js",
+    "main.js.map": "/cleanfolio/static/js/main.fef9c2d6.chunk.js.map",
     "runtime-main.js": "/cleanfolio/static/js/runtime-main.c4a74007.js",
     "runtime-main.js.map": "/cleanfolio/static/js/runtime-main.c4a74007.js.map",
     "static/js/2.c6829ce3.chunk.js": "/cleanfolio/static/js/2.c6829ce3.chunk.js",
     "static/js/2.c6829ce3.chunk.js.map": "/cleanfolio/static/js/2.c6829ce3.chunk.js.map",
     "index.html": "/cleanfolio/index.html",
     "static/css/main.e083f29e.chunk.css.map": "/cleanfolio/static/css/main.e083f29e.chunk.css.map",
-    "static/js/2.c6829ce3.chunk.js.LICENSE.txt": "/cleanfolio/static/js/2.c6829ce3.chunk.js.LICENSE.txt"
+    "static/js/2.c6829ce3.chunk.js.LICENSE.txt": "/cleanfolio/static/js/2.c6829ce3.chunk.js.LICENSE.txt",
+    "static/media/profile-photo.ffa78474.png": "/cleanfolio/static/media/profile-photo.ffa78474.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c4a74007.js",
     "static/js/2.c6829ce3.chunk.js",
     "static/css/main.e083f29e.chunk.css",
-    "static/js/main.05688412.chunk.js"
+    "static/js/main.fef9c2d6.chunk.js"
   ]
 }
