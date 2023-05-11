@@ -8,7 +8,7 @@ const ProjectContainer = ({ projectArray }) => (
     <h3>Undeployed Projects</h3>
 
     {
-      projectArray.map((project) => (<a href={project.url}>{project.name}</a>)
+      projectArray.map((project) => (<div><a href={project.url}>{project.name}</a><br></br></div>)
       )
     }
 

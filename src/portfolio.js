@@ -8,7 +8,7 @@ const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Aaron Losey',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'Aaron is an aspiring web developer living in San Antonio, Texas. He is on a mission to try one cheese from every country in the world. He gets along with others, quick learner, and is eager to start a new chapter in his life as a professional developer.',
   resume: 'https://drive.google.com/file/d/1svmCsDe8Un3r08_XMLwh3i6kywXOHv56/view?usp=sharing',
   social: {
     linkedin: "https://www.linkedin.com/in/aaron-losey-3b9a3b142/",
@@ -19,14 +19,14 @@ const about = {
 const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
-  {
-    name: 'Old Portfolio',
-    description:
-      'My own version of this portfolio, built from scratch',
-    stack: ['React'],
-    sourceCode: "https://ajlosey.github.io/Portfolio/",
-    livePreview: "https://github.com/AJLosey/Portfolio",
-  },
+  // {
+  //   name: 'Old Portfolio',
+  //   description:
+  //     'My own version of this portfolio, built from scratch',
+  //   stack: ['React'],
+  //   sourceCode: "https://ajlosey.github.io/Portfolio/",
+  //   livePreview: "https://github.com/AJLosey/Portfolio",
+  // },
   {
     name: 'Trivia Quiz Website',
     description:
@@ -103,7 +103,8 @@ const skills = [
   'React',
   'Redux',
   'Git',
-  'DynamoDB'
+  'DynamoDB',
+  'SQL'
 ]
 
 const contact = {
