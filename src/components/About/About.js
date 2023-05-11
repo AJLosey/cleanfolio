@@ -17,7 +17,7 @@ const About = () => {
 
       {role && <h2 className='about__role'>A {role}.</h2>}
       <p className='about__desc'>
-        <img href={photo} alt="My selfie. It's 80% beard" />{description && description}</p>
+        <img src={photo} alt="My selfie. It's 80% beard" style={{ width: '20vw', height: '40vh' }} />{description && description}</p>
 
       <div className='about__contact center'>
         {resume && (
